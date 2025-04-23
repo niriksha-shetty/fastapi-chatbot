@@ -5,3 +5,5 @@ faiss-cpu
 PyMuPDF
 numpy
 scikit-learn
+gdown
+
